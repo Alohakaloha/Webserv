@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+*.o
+bin
+.ash_history
+siegeResult
+servers.log
+vf
+
+# ignore before submitting
+# .dev
+# .env
+# tmp
