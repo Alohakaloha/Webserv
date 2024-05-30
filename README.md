@@ -10,11 +10,11 @@
 
 You have to turn in a Makefile which will compile your source files
 
-• Your HTTP response status codes must be accurate.
-• You server must have default error pages if none are provided.
-• You can’t use fork for something else than CGI (like PHP, or Python, and so forth).
-• You must be able to serve a fully static website.
-• Clients must be able to upload files.
+• Your HTTP response status codes must be accurate.\
+• You server must have default error pages if none are provided.\
+• You can’t use fork for something else than CGI (like PHP, or Python, and so forth).\
+• You must be able to serve a fully static website.\
+• Clients must be able to upload files.\
 • You need at least GET, POST, and DELETE methods
 
 
